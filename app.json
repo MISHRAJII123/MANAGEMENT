@@ -78,11 +78,6 @@
         "required": false,
         "value": ""
       },
-      "GENIUS_API" : {
-        "description": "Your Lyrics Genius Api Token. To fetch lyrics of songs",
-        "required": false,
-        "value": ""
-      },
       
       "BDB_URI": {
         "description": "Your Mongodb uri different from the previous one to store more info",
